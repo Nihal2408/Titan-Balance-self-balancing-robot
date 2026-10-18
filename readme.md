@@ -1,3 +1,4 @@
+![Uploading Screenshot 2026-10-18 at 11.32.48 AM.png…]()
 # 🤖 Self-Balancing Robot Chassis (CAD v1.0)
 
 A compact, monocoque chassis for a two-wheeled inverted pendulum (self-balancing) robot. Designed from scratch in **Autodesk Fusion 360**, this enclosure integrates an open-access electronics bay, recessed acrylic display window, low-slung battery compartment, panel-mount power ports, and precision motor brackets.
