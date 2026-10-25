@@ -1,3 +1,6 @@
+![Uploading Screenshot 2026-10-16 at 11.24.50 PM.png…]()
+![Uploading Screenshot 2026-10-16 at 11.24.49 PM.png…]()
+<img width="1296" height="823" alt="Screenshot 2026-10-18 at 11 32 48 AM" src="https://github.com/user-attachments/assets/d001bb95-af95-4127-b3b5-ccf4337f02bd" />
 [Uploading Screenshot 2026-10-18 at 11.32.48 AM.png…]()
 # 🤖 Self-Balancing Robot Chassis (CAD v1.0)
 
