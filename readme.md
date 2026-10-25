@@ -76,18 +76,19 @@ For best structural strength and layer adhesion during dynamic robot movement:
 
 
 
-## 🛠️ Hardware & Bill of Materials (BOM)
 
-| Item | Component | Specification / Rating | Quantity | Purpose |
-| :---: | :--- | :--- | :---: | :--- |
-| **1** | **MPU-6050 IMU** | 6-DOF (3-axis Accel + 3-axis Gyro), I2C | 1 | Pitch angle and rate measurement |
-| **2** | **Microcontroller** | Arduino Nano / ESP32 / Pro Mini | 1 | Runs PID calculation & motor signals |
-| **3** | **Motor Driver** | L298N Mini / TB6612FNG Dual H-Bridge | 1 | Bi-directional PWM motor drive |
-| **4** | **BO Motors + Wheels** | Dual-shaft geared DC BO motor (3–6V, ~1:48) | 2 | Left and right drive wheels |
-| **5** | **Li-ion Battery Pack** | 2S (7.4V) or 3S (11.1V) 18650 cells | 1 pack | Main high-current power source |
-| **6** | **DC Barrel Jack** | 5.5 × 2.1 mm panel-mount | 1 | Charging port & external power entry |
-| **7** | **SPST Mini Switch** | 2-pin rocker or slide switch (3A rating) | 1 | Master power ON/OFF control |
-| **8** | **Wiring & Hardware** | 22/24 AWG silicone wire, standoffs, chassis | Lot | Interconnects and structural frame |
+## 🛒 Bill of Materials (BOM) & Buying Links
+
+| Part / Material | Specification | Quantity | Unit Price (USD) | Buying Link |
+| :--- | :--- | :---: | :---: | :--- |
+| **MPU-6050 Module** | 6-DOF Gyroscope + Accelerometer (GY-521) | 1 | $1.40 | [AliExpress / Amazon](https://www.aliexpress.com/item/32344795748.html) |
+| **Dual Geared BO Motor + Wheel** | Yellow TT motor (3–6V, ~1:48 ratio) + 65mm wheel | 2 | $1.20 | [AliExpress / Amazon](https://www.aliexpress.com/item/32832865766.html) |
+| **18650 Li-ion Battery** | 3.7V 2000–2600mAh rechargeable cell | 2 | $3.50 | [18650 Battery Store](https://www.18650batterystore.com/) |
+| **DC Power Jack (Female)** | 5.5mm × 2.1mm panel-mount barrel jack | 1 | $0.35 | [LCSC Electronics](https://www.lcsc.com/) |
+| **Mini SPST Switch** | 2-pin latching rocker / toggle switch (KCD11) | 1 | $0.25 | [LCSC Electronics](https://www.lcsc.com/) |
+| **22 AWG Flexible Silicone Wire** | Red & Black stranded hookup wire (1m) | 1 | $0.80 | [Amazon](https://www.amazon.com/dp/B07G724S5Q) |
+| **L298N Mini Motor Driver** | Dual H-bridge DC motor driver (MX1508) | 1 | $0.90 | [AliExpress](https://www.aliexpress.com/item/32828691507.html) |
+| **Arduino Nano / Microcontroller** | ATmega328P CH340 board (5V / 16MHz) | 1 | $2.80 | [AliExpress](https://www.aliexpress.com/item/32868739265.html) |
 
 
 ## 🚀 Getting Started
