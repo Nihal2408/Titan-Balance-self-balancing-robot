@@ -74,6 +74,8 @@ For best structural strength and layer adhesion during dynamic robot movement:
 * **Supports:** Required only for steep overhangs and horizontal port openings; chamfered base prints cleanly directly on the build plate.
 * **Orientation:** Print standing upright on its bottom face for maximum vertical strength.
 
+🛠️ Hardware & Bill of Materials (BOM)ItemComponentSpecification / RatingQuantityPurpose1MPU-6050 IMU6-DOF (3-axis Accel + 3-axis Gyro), I2C1Pitch angle and rate measurement2MicrocontrollerArduino Nano / ESP32 / Pro Mini1Runs PID calculation & motor signals3Motor DriverL298N Mini / TB6612FNG Dual H-Bridge1Bi-directional PWM motor drive4BO Motors + WheelsDual-shaft geared DC BO motor (3–6V, ~1:48)2Left and right drive wheels5Li-ion Battery Pack2S (7.4V) or 3S (11.1V) 18650 cells1 packMain high-current power source6DC Barrel Jack5.5 ×
+
 ## 🚀 Getting Started
 
 1. **Clone this repository:**
